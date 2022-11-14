@@ -10,7 +10,7 @@ Sąd stosuje ~~nadzwyczajne złagodzenie kary~~, a nawet może warunkowo zawiesi
 
 1. A można
     1. Jak
-    1. Najbardziej
+    2. Najbardziej
 1. Jeszcze jak
 1. Pozdrawiam
 
