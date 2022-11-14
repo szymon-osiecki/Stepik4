@@ -22,11 +22,11 @@ Sąd stosuje ~~nadzwyczajne złagodzenie kary~~, a nawet może warunkowo zawiesi
   * No
   * No
 
-'''python
+```py
 yes = no
 if yes == yes:
     print("no")
 else:
     print("yes")
-'''
+```
 
