@@ -30,3 +30,5 @@ else:
     print("yes")
 ```
 
+Składam ofiarę Bogom programowania: `print("Hello World")`
+
