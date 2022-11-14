@@ -32,5 +32,4 @@ else:
 
 Składam ofiarę Bogom programowania: `print("Hello World")`
 
-![foka]
-(foka.jpg)
+![foka](foka.jpg)
