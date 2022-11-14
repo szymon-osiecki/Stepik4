@@ -11,8 +11,8 @@ Sąd stosuje ~~nadzwyczajne złagodzenie kary~~, a nawet może warunkowo zawiesi
 1. A można
     1. Jak
     2. Najbardziej
-1. Jeszcze jak
-1. Pozdrawiam
+2. Jeszcze jak
+3. Pozdrawiam
 
 * Yes
 * Yes
