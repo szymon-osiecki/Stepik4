@@ -9,8 +9,8 @@ Sąd stosuje ~~nadzwyczajne złagodzenie kary~~, a nawet może warunkowo zawiesi
 > Jeszcze gdy chodziłem do podstawówki, to był tam taki Paweł, i ja jechałem na rowerze, i go spotkałem, i potem jeszcze pojechałem do biedronki na lody, i po drodze do domu wtedy jeszcze, już do domu pojechałem.
 
 1. A można
-  2. Jak
-  2. Najbardziej
+    1. Jak
+    1. Najbardziej
 1. Jeszcze jak
 1. Pozdrawiam
 
